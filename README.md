@@ -25,7 +25,7 @@ The Installation process will get you a copy of the project up and running on yo
  - Images -- Folder contains the images used in python notebook 
  - Problem Statement -- Case Study Business Problem Statement
 
-If there are any issues in the code, raise them [here](https://github.com/Niranjankumar-c/PriceOptimization/issues)
+If there are any issues in the code, raise them [here](https://github.com/Niranjankumar-c/ProgramEvaluation/issues)
 
 ## Author
 - Connect with me on [linkedin](https://www.linkedin.com/in/niranjankumar-c/).
